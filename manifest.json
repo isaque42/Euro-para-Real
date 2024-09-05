@@ -1,0 +1,13 @@
+{
+    "name": "Convert",
+    "start_url": "/convert",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/convert.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
